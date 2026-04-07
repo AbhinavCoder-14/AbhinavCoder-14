@@ -13,9 +13,9 @@
 
 ---
 
-<table width="100%">
+<table width="80%">
 <tr>
-<td width="35%" valign="top">
+<td width="45%" valign="top">
 
 ## ⚡ Quick Hits
 
