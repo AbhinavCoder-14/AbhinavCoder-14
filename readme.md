@@ -13,42 +13,37 @@
 
 ---
 
-<table width="80%">
+<table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 ## ⚡ Quick Hits
-
-- 🏆 **Google GDG Lakecity Hackathon Winner** — out of 2000+ teams, 2nd prize
-- 🌍 **Open Source Contributor** — Merged [#5181](https://github.com/PalisadoesFoundation/talawa-api/pull/5181) · 95.45% CI coverage
-- ⚡ **Real-Time Systems** — ThinkSync handles 100k+ concurrent users at -35% p95 latency
-- 🤖 **Agentic AI** — 9+ tool LangGraph orchestration · deterministic execution · replay engine
-- 🧠 **Distributed Arch** — Redis pub/sub · consistent hashing · Docker + Nginx
-- 📦 **RAG Engineering** — +40% retrieval accuracy via hybrid vector search + Qdrant
-- 🏛️ **Deputy Head** — Microsoft Student Chapter MSIT · 100+ member developer community
-- ⚙️ **Technical Head** — E-Cell MSIT · E-Summit · Ideathons · NASSCOM/MSME programs
+- 🏆 **GDG Hackathon** — 2nd place · 2000+ teams
+- 🌍 **Open Source** — Merged [#5181](https://github.com/PalisadoesFoundation/talawa-api/pull/5181) · 95.45% CI
+- ⚡ **Real-Time** — 100k+ users · -35% p95 latency
+- 🤖 **Agentic AI** — 9+ tool LangGraph · replay engine
+- 🧠 **Distributed** — Redis pub/sub · consistent hashing · Docker
+- 📦 **RAG** — +40% retrieval accuracy · Qdrant
+- 🏛️ **Deputy Head** — Microsoft Student Chapter MSIT
+- ⚙️ **Tech Head** — E-Cell · E-Summit · NASSCOM/MSME
 - 🎓 **B.Tech ECE** — MSIT, GGSIPU
 
-<br/>
-
 ## 🔥 Projects
-
-| | Project | What it solves |
-|---|---|---|
-| 🏆 | [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) | Deterministic AI execution · Replay engine · VS Code debugger |
-| ⚡ | [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) | 100+ users · -35% p95 latency · Redis crash recovery |
-| 📄 | [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) | 50+ doc RAG · +40% retrieval accuracy · Qdrant |
-| 🌦️ | [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) | -60% memory · Async job queue · Century-scale climate data |
-| 🗺️ | [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) | 9+ tool LangGraph agent · Multi-LLM · Real-time streaming |
-
-<br/>
+| Project | Highlights |
+|---|---|
+| [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) 🏆 | Deterministic AI · Replay engine · VS Code debugger |
+| [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) ⚡ | 100k+ users · -35% p95 · Redis recovery |
+| [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) 📄 | 50+ doc RAG · +40% retrieval · Qdrant |
+| [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) 🌦️ | -60% memory · Async queue · Climate data |
+| [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) 🗺️ | 9+ tool LangGraph · Multi-LLM · Streaming |
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄%20%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
+[![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
 
 </div>
 
+</td>
 <br/>
 
 
