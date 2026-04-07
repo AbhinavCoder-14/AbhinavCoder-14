@@ -17,26 +17,35 @@
 <tr>
 <td width="55%" valign="top">
 
-## ⚡ Quick Hits
-- 🏆 **GDG Hackathon** — 2nd place · 2000+ teams
-- 🌍 **Open Source** — Merged [#5181](https://github.com/PalisadoesFoundation/talawa-api/pull/5181) · 95.45% CI
-- ⚡ **Real-Time** — 100k+ users · -35% p95 latency
-- 🤖 **Agentic AI** — 9+ tool LangGraph · replay engine
-- 🧠 **Distributed** — Redis pub/sub · consistent hashing · Docker
-- 📦 **RAG** — +40% retrieval accuracy · Qdrant
-- 🏛️ **Deputy Head** — Microsoft Student Chapter MSIT
-- ⚙️ **Tech Head** — E-Cell · E-Summit · NASSCOM/MSME
-- 🎓 **B.Tech ECE** — MSIT, GGSIPU
+**⚡ Quick Hits**
 
-## 🔥 Projects
+🏆 GDG Hackathon — 2nd · 2000+ teams<br/>
+🌍 [OSS Merged #5181](https://github.com/PalisadoesFoundation/talawa-api/pull/5181) · 95.45% CI<br/>
+⚡ 100k+ users · -35% p95 latency<br/>
+🤖 9+ tool LangGraph · replay engine<br/>
+🧠 Redis · consistent hashing · Docker<br/>
+📦 +40% retrieval · Qdrant RAG<br/>
+🏛️ Deputy Head · Microsoft Student Chapter<br/>
+⚙️ Tech Head · E-Cell · NASSCOM/MSME<br/>
+🎓 B.Tech ECE · MSIT, GGSIPU
+
+**🔥 Projects**
+
 | Project | Highlights |
 |---|---|
-| [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) 🏆 | Deterministic AI · Replay engine · VS Code debugger |
-| [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) ⚡ | 100k+ users · -35% p95 · Redis recovery |
-| [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) 📄 | 50+ doc RAG · +40% retrieval · Qdrant |
-| [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) 🌦️ | -60% memory · Async queue · Climate data |
-| [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) 🗺️ | 9+ tool LangGraph · Multi-LLM · Streaming |
+| [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) 🏆 | Deterministic AI · Replay · VS Code |
+| [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) ⚡ | 100k+ users · -35% p95 · Redis |
+| [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) 📄 | RAG · +40% retrieval · Qdrant |
+| [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) 🌦️ | -60% memory · Async · Climate |
+| [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) 🗺️ | LangGraph · Multi-LLM · Stream |
 
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
+
+</div>
+
+</td>
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
