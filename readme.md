@@ -1,11 +1,11 @@
 <div align="center">
 
-[![name](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Abhinav%20Yadav&fontSize=52&fontColor=58a6ff&animation=fadeIn)](https://github.com/AbhinavCoder-14)
+[![name](https://capsule-render.vercel.app/api?type=transparent&height=50&text=Abhinav%20Yadav&fontSize=52&fontColor=58a6ff&animation=fadeIn)](https://github.com/AbhinavCoder-14)
 <br/>
 ### Full-Stack & AI Systems Engineer · New Delhi, India 🇮🇳
-*Building real-time platforms, agentic AI pipelines, and distributed backends — obsessed with p95 latency, crash recovery, and systems that scale.*
-
+*Building real-time platforms, agentic AI pipelines, and distributed backends. Obsessed with p95 latency, crash recovery, and systems that scale.*
 <br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
 
 
@@ -15,7 +15,7 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="35%" valign="top">
 
 ## ⚡ Quick Hits
 
