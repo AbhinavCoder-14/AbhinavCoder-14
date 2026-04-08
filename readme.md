@@ -1,7 +1,6 @@
 <div align="center">
 
 [![name](https://capsule-render.vercel.app/api?type=transparent&height=50&text=Abhinav%20Yadav&fontSize=52&fontColor=58a6ff&animation=fadeIn)](https://github.com/AbhinavCoder-14)
-
 <br/>
 
 ### Full-Stack & AI Systems Engineer · New Delhi, India 🇮🇳
@@ -48,7 +47,7 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
+[![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jK2C4XqzP7z4_nPozkUh1bcLq2sDeCV2/view?usp=drive_link)
 
 </div>
 
