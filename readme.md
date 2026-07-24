@@ -24,9 +24,9 @@ abhinav@dev:~$ ./status --now
 
 ### ⚡ Quick Hits
 
-<table>
+<table width="100%">
 <tr>
-<td width="70%" valign="middle">
+<td width="72%" valign="middle">
 
 <sub>🏆 **GDG Hackathon Winner** · 2nd prize across 2000+ teams</sub><br/>
 <sub>🌍 <a href="https://github.com/PalisadoesFoundation/talawa-api/pull/5181">OSS merged into Talawa API #5181</a> · 95.45% CI coverage</sub><br/>
@@ -39,9 +39,9 @@ abhinav@dev:~$ ./status --now
 <sub>🎓 B.Tech ECE · MSIT, GGSIPU</sub>
 
 </td>
-<td width="30%" valign="middle" align="center">
+<td width="28%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="180" />
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200" />
 
 </td>
 </tr>
@@ -49,22 +49,48 @@ abhinav@dev:~$ ./status --now
 
 ### 🔥 Featured Builds
 
-| Project | What it does | Highlights |
-|---|---|---|
-| [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) 🏆 | Deterministic AI orchestration | Replay engine · VS Code native |
-| [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) ⚡ | Real-time collab at scale | 100+ users · -35% p95 · Redis |
-| [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) 📄 | RAG document intelligence | +40% retrieval · Qdrant |
-| [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) 🌦️ | Async climate forecasting | -60% memory footprint |
-| [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) 🗺️ | Multi-LLM research agent | LangGraph · streaming |
+<table width="100%">
+<thead>
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Highlights</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="34%"><a href="https://github.com/AbhinavCoder-14/Agent-Control-Plane"><b>Agent Control Plane</b></a> 🏆</td>
+<td>Deterministic AI orchestration</td>
+<td>Replay engine · VS Code native</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AbhinavCoder-14/Think-Sync-2"><b>ThinkSync</b></a> ⚡</td>
+<td>Real-time collab at scale</td>
+<td>100+ users · -35% p95 · Redis</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AbhinavCoder-14/PromptPage"><b>PromptPage</b></a> 📄</td>
+<td>RAG document intelligence</td>
+<td>+40% retrieval · Qdrant</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AbhinavCoder-14/AeroCast"><b>AeroCast</b></a> 🌦️</td>
+<td>Async climate forecasting</td>
+<td>-60% memory footprint</td>
+</tr>
+<tr>
+<td><a href="https://github.com/AbhinavCoder-14/Deep-Seeker-Agent"><b>Deep-Seeker</b></a> 🗺️</td>
+<td>Multi-LLM research agent</td>
+<td>LangGraph · streaming</td>
+</tr>
+</tbody>
+</table>
 
 <br/>
 
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jK2C4XqzP7z4_nPozkUh1bcLq2sDeCV2/view?usp=drive_link)
-
-<br/><br/>
-
 ### 📬 Let's Connect
 
 <a href="https://linkedin.com/in/abhinavprog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -80,19 +106,7 @@ abhinav@dev:~$ ./status --now
 
 <div align="center">
 
-<sub>**Languages**</sub>
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark&perline=12" />
-
-<sub>**Frameworks & Runtime**</sub>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,fastapi,graphql&theme=dark&perline=12" />
-
-<sub>**Data & Infra**</sub>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,kafka,docker,nginx,linux,git,github&theme=dark&perline=12" />
-
-<sub>**AI & Backend Toolkit**</sub>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,express,react,nextjs,tailwind,fastapi,graphql,postgres,mongodb,redis,prisma,supabase,kafka,docker,nginx,linux,git,github&theme=dark&perline=12" />
 
 <br/><br/>
 
@@ -161,9 +175,6 @@ abhinav@dev:~$ ./status --now
 [![Followers](https://img.shields.io/github/followers/AbhinavCoder-14?style=flat-square&logo=github&label=Followers&labelColor=161b22&color=30363d)](https://github.com/AbhinavCoder-14?tab=followers)
 
 <br/>
-
-<sub>Thanks for scrolling this far. Now go build something. 🚀</sub>
-
 </td>
 <td width="20%" align="center">
 
