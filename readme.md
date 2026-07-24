@@ -41,7 +41,7 @@ abhinav@dev:~$ ./status --now
 </td>
 <td width="28%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200" />
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300" />
 
 </td>
 </tr>
