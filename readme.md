@@ -1,17 +1,24 @@
 <div align="center">
 
-[![name](https://capsule-render.vercel.app/api?type=transparent&height=50&text=Abhinav%20Yadav&fontSize=52&fontColor=58a6ff&animation=fadeIn)](https://github.com/AbhinavCoder-14)
-<br/>
+[![name](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Abhinav%20Yadav&fontSize=56&fontColor=F0F6FC&animation=fadeIn)](https://github.com/AbhinavCoder-14)
 
-### Full-Stack & AI Systems Engineer · New Delhi, India 🇮🇳
-
-*Building real-time platforms, agentic AI pipelines, and distributed backends. Obsessed with p95 latency, crash recovery, and systems that scale.*
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=Full-Stack+and+AI+Systems+Engineer;I+build+things+because+I+love+building+things;Obsessed+with+p95+latency+and+crash+recovery;Yes+it+scales.+I+already+checked.)](https://github.com/AbhinavCoder-14)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
 
 </div>
+
+```bash
+abhinav@dev:~$ whoami
+> Abhinav Yadav | Full-Stack & AI Systems Engineer | New Delhi, India
+
+abhinav@dev:~$ cat focus.txt
+> Real-time platforms, agentic AI pipelines, and distributed backends.
+> Obsessed with p95 latency, crash recovery, and systems that refuse to fall over.
+
+abhinav@dev:~$ ./status --now
+> Building. Breaking. Rebuilding. Occasionally sleeping.
+```
 
 ---
 
@@ -19,29 +26,29 @@
 <tr>
 <td width="62%" valign="top">
 
-<sub>**⚡ Quick Hits**</sub>
+### ⚡ Quick Hits
 
-<sub>🏆 GDG Hackathon Winner · 2000+ teams · 2nd prize</sub><br/>
-<sub>🌍 <a href="https://github.com/PalisadoesFoundation/talawa-api/pull/5181">OSS Merged #5181</a> · 95.45% CI coverage</sub><br/>
-<sub>⚡ 100+ concurrent users · -35% p95 latency</sub><br/>
-<sub>🤖 9+ tool LangGraph · deterministic execution · replay engine</sub><br/>
-<sub>🧠 Redis pub/sub · consistent hashing · Docker + Nginx</sub><br/>
-<sub>📦 +40% retrieval accuracy · Qdrant hybrid vector search</sub><br/>
+<sub>🏆 **GDG Hackathon Winner** · 2nd prize across 2000+ teams</sub><br/>
+<sub>🌍 <a href="https://github.com/PalisadoesFoundation/talawa-api/pull/5181">OSS merged into Talawa API #5181</a> · 95.45% CI coverage</sub><br/>
+<sub>⚡ 100+ concurrent users served at -35% p95 latency</sub><br/>
+<sub>🤖 9+ tool LangGraph agent · deterministic execution · replay engine</sub><br/>
+<sub>🧠 Redis pub/sub · consistent hashing on Docker + Nginx</sub><br/>
+<sub>📦 +40% retrieval accuracy via Qdrant hybrid vector search</sub><br/>
 <sub>🏛️ Deputy Head · Microsoft Student Chapter MSIT · 100+ members</sub><br/>
-<sub>⚙️ Tech Head · E-Cell MSIT · E-Summit · NASSCOM/MSME programs</sub><br/>
-<sub>🎓 B.Tech ECE · MSIT, GGSIPU </sub>
+<sub>⚙️ Tech Head · E-Cell MSIT · E-Summit, NASSCOM/MSME programs</sub><br/>
+<sub>🎓 B.Tech ECE · MSIT, GGSIPU</sub>
 
 <br/>
 
-<sub>**🔥 Projects**</sub>
+### 🔥 Featured Builds
 
-| Project | Highlights |
-|---|---|
-| [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) 🏆 | Deterministic AI · Replay · VS Code |
-| [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) ⚡ | 100+ users · -35% p95 · Redis |
-| [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) 📄 | RAG · +40% retrieval · Qdrant |
-| [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) 🌦️ | -60% memory · Async · Climate |
-| [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) 🗺️ | LangGraph · Multi-LLM · Stream |
+| Project | What it does | Highlights |
+|---|---|---|
+| [**Agent Control Plane**](https://github.com/AbhinavCoder-14/Agent-Control-Plane) 🏆 | Deterministic AI orchestration | Replay engine · VS Code native |
+| [**ThinkSync**](https://github.com/AbhinavCoder-14/Think-Sync-2) ⚡ | Real-time collab at scale | 100+ users · -35% p95 · Redis |
+| [**PromptPage**](https://github.com/AbhinavCoder-14/PromptPage) 📄 | RAG document intelligence | +40% retrieval · Qdrant |
+| [**AeroCast**](https://github.com/AbhinavCoder-14/AeroCast) 🌦️ | Async climate forecasting | -60% memory footprint |
+| [**Deep-Seeker**](https://github.com/AbhinavCoder-14/Deep-Seeker-Agent) 🗺️ | Multi-LLM research agent | LangGraph · streaming |
 
 <br/>
 
@@ -53,7 +60,7 @@
 
 <br/>
 
-**📬 Let's Connect**
+### 📬 Let's Connect
 
 <a href="https://linkedin.com/in/abhinavprog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://www.instagram.com/abhinav_prog/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
@@ -69,7 +76,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinavCoder-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" width="280"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinavCoder-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" width="290"/>
 
 </td>
 </tr>
@@ -81,7 +88,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,fastapi,express,postgres,mongodb,redis,docker,nginx,graphql,prisma,supabase,kafka,git,github,linux,html,css&theme=dark&perline=12" />
+<sub>**Languages**</sub>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark&perline=12" />
+
+<sub>**Frameworks & Runtime**</sub>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,fastapi,graphql&theme=dark&perline=12" />
+
+<sub>**Data & Infra**</sub>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,kafka,docker,nginx,linux,git,github&theme=dark&perline=12" />
+
+<sub>**AI & Backend Toolkit**</sub>
 
 <br/><br/>
 
@@ -100,19 +119,36 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 The Receipts
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<sub>**Most Used Languages**</sub>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavCoder-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<sub>**Commit Streak**</sub>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavCoder-14&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavCoder-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<sub>**Contribution Activity**</sub>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavCoder-14&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavCoder-14&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavCoder-14&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavCoder-14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 
 </div>
 
@@ -120,35 +156,19 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td width="25%" align="right">
+### "Ship it. Scale it. Survive it."
 
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="170"/>
-
-</td>
-<td width="50%" align="center">
-
-### *"Ship it. Scale it. Survive it."*
+<sub>*The best systems aren't built once. They're debugged, profiled, and rebuilt at 2am.*</sub>
 
 <br/>
 
-> *The best systems aren't built once — they're debugged, profiled, and rebuilt.*
+![Profile Views](https://komarev.com/ghpvc/?username=AbhinavCoder-14&color=6e7681&style=flat-square&label=Profile+Views)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/AbhinavCoder-14?style=flat-square&logo=github&label=Followers&labelColor=161b22&color=30363d)](https://github.com/AbhinavCoder-14?tab=followers)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbhinavCoder-14&color=58a6ff&style=flat-square&label=Profile+Views)
-
-</td>
-<td width="25%" align="left">
-
-<img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="170"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<sub>Thanks for scrolling this far. Now go build something. 🚀</sub>
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/AbhinavCoder-14)
 
