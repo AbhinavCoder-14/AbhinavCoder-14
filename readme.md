@@ -22,11 +22,11 @@ abhinav@dev:~$ ./status --now
 
 ---
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
 ### ⚡ Quick Hits
+
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 <sub>🏆 **GDG Hackathon Winner** · 2nd prize across 2000+ teams</sub><br/>
 <sub>🌍 <a href="https://github.com/PalisadoesFoundation/talawa-api/pull/5181">OSS merged into Talawa API #5181</a> · 95.45% CI coverage</sub><br/>
@@ -38,7 +38,14 @@ abhinav@dev:~$ ./status --now
 <sub>⚙️ Tech Head · E-Cell MSIT · E-Summit, NASSCOM/MSME programs</sub><br/>
 <sub>🎓 B.Tech ECE · MSIT, GGSIPU</sub>
 
-<br/>
+</td>
+<td width="30%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="180" />
+
+</td>
+</tr>
+</table>
 
 ### 🔥 Featured Builds
 
@@ -56,9 +63,7 @@ abhinav@dev:~$ ./status --now
 
 [![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jK2C4XqzP7z4_nPozkUh1bcLq2sDeCV2/view?usp=drive_link)
 
-</div>
-
-<br/>
+<br/><br/>
 
 ### 📬 Let's Connect
 
@@ -67,20 +72,7 @@ abhinav@dev:~$ ./status --now
 <a href="mailto:abhinavyadavfin18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/AbhinavCoder-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-<td width="38%" valign="top" align="center">
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="260" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinavCoder-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" width="290"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -121,40 +113,42 @@ abhinav@dev:~$ ./status --now
 
 ## 📊 The Receipts
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<sub>**Most Used Languages**</sub>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavCoder-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhinavCoder-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<sub>**Commit Streak**</sub>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhinavCoder-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavCoder-14&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AbhinavCoder-14&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<sub>**Contribution Activity**</sub>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavCoder-14&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavCoder-14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
-
-</div>
-
 ---
 
 <div align="center">
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="140" />
+
+</td>
+<td width="60%" align="center">
 
 ### "Ship it. Scale it. Survive it."
 
@@ -170,6 +164,13 @@ abhinav@dev:~$ ./status --now
 
 <sub>Thanks for scrolling this far. Now go build something. 🚀</sub>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/AbhinavCoder-14)
+</td>
+<td width="20%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="140" />
+
+</td>
+</tr>
+</table>
 
 </div>
