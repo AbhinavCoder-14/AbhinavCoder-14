@@ -1,12 +1,4 @@
-<div align="center">
 
-[![name](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Abhinav%20Yadav&fontSize=56&fontColor=F0F6FC&animation=fadeIn)](https://github.com/AbhinavCoder-14)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=Full-Stack+and+AI+Systems+Engineer;I+build+things+because+I+love+building+things;Obsessed+with+p95+latency+and+crash+recovery;Yes+it+scales.+I+already+checked.)](https://github.com/AbhinavCoder-14)
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
-
-</div>
 
 ```bash
 abhinav@dev:~$ whoami
@@ -46,59 +38,7 @@ abhinav@dev:~$ ./status --now
 </td>
 </tr>
 </table>
-
-### 🔥 Featured Builds
-
-<table width="100%">
-<thead>
-<tr>
-<th align="left">Project</th>
-<th align="left">What it does</th>
-<th align="left">Highlights</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td width="34%"><a href="https://github.com/AbhinavCoder-14/Agent-Control-Plane"><b>Agent Control Plane</b></a> 🏆</td>
-<td>Deterministic AI orchestration</td>
-<td>Replay engine · VS Code native</td>
-</tr>
-<tr>
-<td><a href="https://github.com/AbhinavCoder-14/Think-Sync-2"><b>ThinkSync</b></a> ⚡</td>
-<td>Real-time collab at scale</td>
-<td>100+ users · -35% p95 · Redis</td>
-</tr>
-<tr>
-<td><a href="https://github.com/AbhinavCoder-14/PromptPage"><b>PromptPage</b></a> 📄</td>
-<td>RAG document intelligence</td>
-<td>+40% retrieval · Qdrant</td>
-</tr>
-<tr>
-<td><a href="https://github.com/AbhinavCoder-14/AeroCast"><b>AeroCast</b></a> 🌦️</td>
-<td>Async climate forecasting</td>
-<td>-60% memory footprint</td>
-</tr>
-<tr>
-<td><a href="https://github.com/AbhinavCoder-14/Deep-Seeker-Agent"><b>Deep-Seeker</b></a> 🗺️</td>
-<td>Multi-LLM research agent</td>
-<td>LangGraph · streaming</td>
-</tr>
-</tbody>
-</table>
-
 <br/>
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/📄%20View%20Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jK2C4XqzP7z4_nPozkUh1bcLq2sDeCV2/view?usp=drive_link)
-### 📬 Let's Connect
-
-<a href="https://linkedin.com/in/abhinavprog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/abhinav_prog/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="mailto:abhinavyadavfin18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/AbhinavCoder-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
 
 ---
 
@@ -124,29 +64,6 @@ abhinav@dev:~$ ./status --now
 </div>
 
 ---
-
-## 📊 The Receipts
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhinavCoder-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhinavCoder-14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=AbhinavCoder-14&theme=tokyonight&hide_border=true&background=0D1117" />
-
 </td>
 </tr>
 </table>
